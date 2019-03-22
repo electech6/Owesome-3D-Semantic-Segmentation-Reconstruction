@@ -1,6 +1,5 @@
 # Owesome-3D-Semantic-Segmentation-Reconstruction
 
-markdown-toc
 
 ## 背景介绍：
 
