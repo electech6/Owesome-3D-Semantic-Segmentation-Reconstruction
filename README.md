@@ -19,7 +19,9 @@
 
 ![](https://i.loli.net/2019/03/18/5c8f865edd6b1.png)
 论文地址：https://arxiv.org/pdf/1812.07003.pdf
+
 视频：https://www.youtube.com/watch?v=IH9rNLD1-JE
+
 项目网址:http://graphics.stanford.edu/~adai/hou20193dsis.html
 
 ### Scan2CAD: Learning CAD Model Alignment in RGB-D Scans
