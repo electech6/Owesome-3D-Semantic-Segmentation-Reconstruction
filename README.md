@@ -143,8 +143,10 @@ http://graphics.stanford.edu/~adai/dai2018scancomplete.html
  ![](https://i.loli.net/2019/03/18/5c8f8664514c1.png)
  
 论文地址：http://graphics.stanford.edu/~adai/papers/2017/3dlite/huang2017dlite.pdf
+
 视频：
 https://www.youtube.com/watch?v=AzAb6O9OjYg
+
 项目网址: 
 http://graphics.stanford.edu/projects/3dlite/
 
@@ -156,6 +158,7 @@ http://graphics.stanford.edu/projects/3dlite/
  
 论文地址：
 https://arxiv.org/pdf/1612.00101.pdf
+
 项目网址: 
 http://graphics.stanford.edu/projects/cnncomplete/
 
@@ -176,6 +179,7 @@ http://graphics.stanford.edu/projects/cnncomplete/
 
 论文地址：
 http://papers.nips.cc/paper/6657-marrnet-3d-shape-reconstruction-via-25d-sketches.pdf
+
 Github地址：
 https://github.com/jiajunwu/marrnet
 
