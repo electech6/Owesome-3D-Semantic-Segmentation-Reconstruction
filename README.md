@@ -1,7 +1,6 @@
 # Owesome-3D-Semantic-Segmentation-Reconstruction
 
-
-[TOC]
+markdown-toc
 
 ## 背景介绍：
 
@@ -131,6 +130,7 @@ https://www.youtube.com/watch?v=5s5s8iH0NF8
 
 代码: 
 https://github.com/angeladai/ScanComplete
+
 项目网址: 
 http://graphics.stanford.edu/~adai/dai2018scancomplete.html
 
